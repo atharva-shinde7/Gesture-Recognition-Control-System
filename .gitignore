@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+.env
+.idea/
+.vscode/
+
+# Screenshot outputs
+my_screenshot_*.png
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# macOS specific
+.DS_Store 
