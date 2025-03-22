@@ -20,7 +20,7 @@ A computer vision system that enables controlling your computer through hand ges
 1. Clone the repository:
    ```
    git clone https://github.com/atharva-shinde7/Gesture-Recognition-Control-System.git
-   cd GestureRecognition
+   cd Gesture-Recognition-Control-System
    ```
 
 2. Create and activate a virtual environment (recommended):
